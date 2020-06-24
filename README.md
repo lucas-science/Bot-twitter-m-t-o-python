@@ -11,4 +11,4 @@ Deux types de prgramme :
      
      ![](https://github.com/lucas-science/Bot-twitter-m-t-o-python/blob/master/Exemple/courbe.png)
 ***
-Le 
+Les programmes se connectent tout deux à la base de donnée en local du Raspberry Pi 3.
