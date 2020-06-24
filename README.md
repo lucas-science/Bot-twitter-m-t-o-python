@@ -6,7 +6,9 @@ Deux types de prgramme :
 
 - *Semaine*, contient un fichier permettant de donner un compte rendu météorologique, sous forme de graphique.
 
-     Comme par exemple : 
+    __Comme par exemple :__
      
      
      ![](https://github.com/lucas-science/Bot-twitter-m-t-o-python/blob/master/Exemple/courbe.png)
+***
+Le 
